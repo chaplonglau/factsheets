@@ -31,7 +31,7 @@ REST stands for Representational State Transfer. It is a structural design patte
 # CRUD 
 CRUD stands for Create, Read, Update, and Delete. These operations are essential to any persistent database storage. 
 
-#Tie-it-all-together 
+# Tie-it-all-together 
 
 RESTful routes map HTTP verbs to a controller's CRUD actions
 
