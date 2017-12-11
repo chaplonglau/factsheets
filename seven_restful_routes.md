@@ -6,9 +6,13 @@ HTTP stands for Hypertext Transfer Protocol. It is a protocol for communciations
 Rails commonly uses these five HTTP methods 
 
 GET - Request data 
-POST - Creating a new resource 
+
+POST - Creating a new resource
+
 PUT - Update a pre-existing resource with a complete replacement 
+
 PATCH - Update only specified fields of a pre-existing resource 
+
 DELETE - Delete a resource 
 
 (PUT is for replacing everything, and PATCH is for updating a portion.  )
